@@ -35,7 +35,7 @@ This project uses the CrewAI framework to create a team of AI agents that attemp
 2.  **Open in Colab:** Upload and open the notebook in Google Colab ([colab.research.google.com](https://colab.research.google.com/)).
 3.  **Install libraries:** Run the first cell (`# @title 1. Install...`) to install dependencies.
 4.  **Configure API keys in Colab secrets:**
-    *   Open Colab secrets (Key icon `<>` left sidebar).
+    *   Open Colab secrets (Key icon left sidebar).
     *   Enable "Notebook access".
     *   Add two secrets:
         *   Name: `OPENAI_API_KEY` | Value: Your OpenAI key (`sk-...`)
